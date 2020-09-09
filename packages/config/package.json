@@ -28,7 +28,7 @@
   "dependencies": {
     "cosmiconfig": "^5.0.1",
     "is-plain-object": "^2.0.4",
-    "lodash.mergewith": "^4.6.1",
+    "lodash.mergewith": "^4.6.2",
     "pkg-dir": "^2.0.0"
   },
   "devDependencies": {
